@@ -1,0 +1,21 @@
+{
+  "name": "React Avançado - Boilerplate",
+  "short_name": "React Avançado",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "type": "image/png",
+      "sizes": "5122x512"
+    }
+  ],
+  "background_color": "#06092B",
+  "description": "Boilerplate utilizado para desenvolver aplicações ReactJS, NextJS e styled Components",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#06092B"
+}
